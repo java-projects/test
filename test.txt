@@ -1,2 +1,1 @@
-Jetzt sollte das auch mal funktionieren!!
-Hallo Welt!
+Lorem ipsum!
